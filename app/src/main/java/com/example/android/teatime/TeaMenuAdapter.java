@@ -34,6 +34,8 @@ import java.util.ArrayList;
  * the GridView in MenuActivity
  */
 
+//komt deze commit alleen terug in de BRANCH Solution -FinishOrderActivityBasicTest???
+
 public class TeaMenuAdapter extends ArrayAdapter<Tea> {
 
     private Context mContext;
