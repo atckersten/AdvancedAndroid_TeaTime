@@ -21,6 +21,8 @@ import android.support.test.espresso.IdlingResource;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 
+//eerste commit en psuh van geforkte en geclonde repo naar github roel
+
 /**
  * A very simple implementation of {@link IdlingResource}.
  * <p>
